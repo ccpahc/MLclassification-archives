@@ -33,6 +33,16 @@
                     "@type": "Person"
                 },
                 {
+                    "familyName": "Vladislav",
+                    "givenName": "Vaculin",
+                    "@type": "Person"
+                },
+                {
+                    "familyName": "Sobo",
+                    "givenName": "Andrei",
+                    "@type": "Person"
+                },
+                {
                     "affiliation": {
                         "name": "University of Brighton",
                         "@type": "Organization"
